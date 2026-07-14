@@ -43,6 +43,6 @@ Sales trends provided valuable information for business planning.
 
 # Files Included
 sales.dataset.csv – Raw dataset.
--<a https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/blob/main/project%203%20decodelab.sql</a>
-README.md – Project documentation.
+-<a https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/blob/main/project%203%20decodelab.sql> MYSQL QUERIES</a>
+README.md -<a https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/edit/main/README.md> project documentation</a>
 screenshots/ – Query outputs and visualizations.
