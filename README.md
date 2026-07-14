@@ -42,7 +42,7 @@ Order cancellations and returns affected total performance.
 Sales trends provided valuable information for business planning.
 
 # Files Included
-sales.dataset.csv – Raw dataset.
--<a https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/blob/main/project%203%20decodelab.sql> MYSQL QUERIES</a>
-README.md -<a https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/edit/main/README.md> project documentation</a>
-screenshots/ – Query outputs and visualizations.
+–<a href"https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/blob/main/sales.dataset.csv"> Raw dataset</a>.
+-<a href"https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/blob/main/project%203%20decodelab.sql"> MYSQL QUERIES</a>
+README.md -<a href"https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/edit/main/README.md"> project documentation</a>
+
