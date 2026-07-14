@@ -43,6 +43,6 @@ Sales trends provided valuable information for business planning.
 
 # Files Included
 sales.dataset.csv – Raw dataset.
-sales_eda_queries.sql – SQL queries used in the analysis.
+-<a https://github.com/datawithtee/EXPLORATORY-DATA-ANALYSIS-USING-MYSQL/blob/main/project%203%20decodelab.sql</a>
 README.md – Project documentation.
 screenshots/ – Query outputs and visualizations.
